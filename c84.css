@@ -1,0 +1,72 @@
+
+body{background-image:url("vegtables11.jpg");background-repeat:no-repeat;background-attachment:fixed;}
+h6.one{color:darkslategray;text-align:center;}
+div.form1{margin:10px;padding:7px;color:hsl(336, 84%, 48%);text-indent:200px;
+background-color:wheat;
+width:900px;
+overflow:hidden;
+float:left;
+text-shadow:1px 1px 1px #111111;
+box-shadow: 0 0 10px #777777;
+
+}
+input.kilo{padding-right:10px;
+}
+div.hints{margin:4px;padding:3px;}
+textarea.text-area{margin-left:300px;height:150px;width:350px;display:inline-block;resize:none;}
+button.add{margin-left:700px;}
+select.addselect{height:20px; width:160px;}
+p.addinput{margin-left:200px;text-indent:0px;}
+div.head{
+background-color:wheat;
+height:80px;
+width:1000px;
+margin-left:180px;
+box-shadow: inset 0 0 10px #666666;
+
+antiquewhite,darksalmon
+}
+p.title{
+color:hsl(0, 100%, 30%);
+text-align:center;
+font-size:25px;
+font-style:oblique;
+text-shadow:1px 2px 3px #666666;
+}
+div.address{
+background-color:wheat;
+width:350px;height:500px;
+overflow:hidden;float:right;
+margin-right:1em;
+margin-top:1em;
+
+}
+button{
+background-color:tan;
+color:darkred;
+}
+input#name{
+margin-left:12px;
+}
+div.address{
+padding:15px;
+box-shadow: 0 0 10px #777777;
+}
+h4.addr{
+font-style:oblique;
+line-height:1px;
+color:darkred;
+}
+p.addr{
+font-style:italic;
+line-height:1px;
+text-indent:50px;
+color:hsl(336, 84%, 48%);
+text-shadow:1px 1px 1px #000000;
+}
+address.addr{
+font-style:italic;
+color:hsl(336, 84%, 48%);
+text-indent:10px;
+text-shadow:1px 1px 1px #000000;
+}
